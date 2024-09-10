@@ -98,7 +98,7 @@ const songGifPairs = [
   },
   { 
     song: "spotify:track:2NcQic8JxdjAlAHuNbOIRE",
-    gif: "https://media.giphy.com/media/Or7jwLWwOY6vC/giphy.gif?cid=ecf05e4753c24q28pmw0xd1mg4yjggwgxjh9hh84nmhr3469&ep=v1_gifs_related&rid=giphy.gif&ct=g",
+    gif: "https://media.giphy.com/media/bzoxl301TMkL16Riat/giphy.gif?cid=ecf05e471h6llnaap39ujtsakqof5i096mgyvedso25te86q&ep=v1_gifs_related&rid=giphy.gif&ct=g",
     title: "Keep Driving",
     artist: "Harry Styles",
     albumArt: "https://i.scdn.co/image/ab67616d00001e02b46f74097655d7f353caab14",
@@ -123,7 +123,7 @@ const songGifPairs = [
   },
   { 
     song: "spotify:track:3SdTKo2uVsxFblQjpScoHy",
-    gif: "https://media.giphy.com/media/Or7jwLWwOY6vC/giphy.gif?cid=ecf05e47jkgt86882s08z12rtxlf46gc8emzkfn71g9ad5ct&ep=v1_gifs_related&rid=giphy.gif&ct=g",
+    gif: "https://media.giphy.com/media/QBICxav1mvX5mM7WoX/giphy.gif?cid=ecf05e47uuj8u44yy9w80bm284cl0rxdeddedjeudg415l2w&ep=v1_gifs_related&rid=giphy.gif&ct=g",
     title: "Stand By Me",
     artist: "Ben E. King",
     albumArt: "https://i.scdn.co/image/ab67616d0000b2731813ea8f590a0aab2820f922",
